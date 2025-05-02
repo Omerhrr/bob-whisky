@@ -19,7 +19,7 @@
 - **Python**: 3.8 or higher.
 - **Dependencies**: Listed in `requirements.txt`.
 - **Gemini API Key**: Obtain from Google Cloud for Gemini AI.
-- **Dataset**: `bottles_dataset.csv` with the specified columns.
+- **Dataset**: `bottles_recommendation_dataset.csv` with the specified columns.
 - **BAXUS API Access**: Ensure the API (`http://services.baxus.co/api/bar/user/{username}`) is accessible.
 
 ## Setup Instructions
@@ -176,3 +176,7 @@ bob-the-whisky-expert/
 - Display bottle images in the bar data table.
 - Add loading indicators for API calls and image fetching.
 - Implement logging to debug API response structures.
+
+
+## Demo
+run: https://bob-whisky.streamlit.app
