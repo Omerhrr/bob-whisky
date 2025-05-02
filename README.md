@@ -180,3 +180,7 @@ bob-the-whisky-expert/
 
 ## Demo
 run: https://bob-whisky.streamlit.app
+
+[![Bob the Whisky Expert Video Demo](https://img.youtube.com/vi/7NY1lDrxa4o/0.jpg)](https://youtu.be/7NY1lDrxa4o)
+
+👆 **Click above to watch the video demo**
